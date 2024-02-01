@@ -1,0 +1,7 @@
+pip install pandas
+pip install pycryptodome
+pip install django
+pip install joblib
+pip install dj-database-url
+pip install django
+pip install mysqlclient
